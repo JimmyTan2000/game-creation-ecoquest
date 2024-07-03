@@ -13,7 +13,7 @@ This game is developed using Godot 3.5. To import this into your godot locally, 
 1. Clone this repository.
 2. Open Godot on your machine.
 3. Click the "Import" button.
-4. Navigate to the folder of this repository and select the "project.godot" file
+4. Navigate to the folder of this repository and select the "project.godot" file.
 
 ## Game Link
 This game is deployed on itch.io. Try it out using [this link](https://tanjimmy.itch.io/the-quest-for-a-cleaner-world)!
